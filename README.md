@@ -1,5 +1,5 @@
 # Jarzynski-Equality-for-Driven-QFT
-Numerical simulation code for the paper: Jarzynski Equality for Driven Quantum Field Theories [arXiv:1710.00829]
+Numerical simulation code for the paper: Jarzynski equality for driven quantum field theories, Phys. Rev. X, vol. 8, p. 011 033, 1 2018. [arXiv:1710.00829]
 
 The Mathematica "Generator-NtoN*.m" files are scripts meant to be run remotely. These scripts calculate the work distribution functions for the various scattering processes. Note, even with parallel processing, these scripts can take several days to run. These scripts were tailored for running on an 8-core machine and will require modification before being run on a machine with a different core count.
 
